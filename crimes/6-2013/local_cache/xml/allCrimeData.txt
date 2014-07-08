@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1404830709">
+  <crimes year="6-2013">
+    <region id="North East" total="138982"/>
+    <region id="North West" total="444423"/>
+    <region id="Yorkshire And Humber" total="356370"/>
+    <region id="East Midlands" total="261294"/>
+    <region id="West Midlands" total="318640"/>
+    <region id="East Of England" total="309296"/>
+    <region id="London" total="750185"/>
+    <region id="South East" total="480596"/>
+    <region id="South West" total="287206"/>
+    <region id="Dyfed-Powys" total="18903"/>
+    <region id="Gwent" total="34595"/>
+    <region id="North Wales" total="36584"/>
+    <region id="South Wales" total="83532"/>
+    <national id="British Transport Police" total="51970"/>
+    <national id="Action Fraud" total="150389"/>
+    <england total="3345788"/>
+    <wales total="173614"/>
+  </crimes>
+</response>

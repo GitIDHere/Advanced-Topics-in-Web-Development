@@ -1,0 +1,34 @@
+{
+    "response": {
+        "timestamp": 1404648562,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "North West",
+                "total": "444423",
+                "area": [
+                    {
+                        "id": "Cheshire",
+                        "total": "57908"
+                    },
+                    {
+                        "id": "Cumbria",
+                        "total": "23286"
+                    },
+                    {
+                        "id": "Greater Manchester",
+                        "total": "178857"
+                    },
+                    {
+                        "id": "Lancashire",
+                        "total": "93427"
+                    },
+                    {
+                        "id": "Merseyside",
+                        "total": "90945"
+                    }
+                ]
+            }
+        }
+    }
+}

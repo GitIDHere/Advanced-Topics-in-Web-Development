@@ -1,0 +1,38 @@
+{
+    "response": {
+        "timestamp": 1392986842,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "East Of England",
+                "total": "52146",
+                "area": [
+                    {
+                        "id": "Bedfordshire",
+                        "total": "35453"
+                    },
+                    {
+                        "id": "Cambridgeshire",
+                        "total": "45091"
+                    },
+                    {
+                        "id": "Essex",
+                        "total": "99741"
+                    },
+                    {
+                        "id": "Hertfordshire",
+                        "total": "51868"
+                    },
+                    {
+                        "id": "Norfolk",
+                        "total": "37996"
+                    },
+                    {
+                        "id": "Suffolk",
+                        "total": "39147"
+                    }
+                ]
+            }
+        }
+    }
+}

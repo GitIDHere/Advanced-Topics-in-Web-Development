@@ -1,0 +1,78 @@
+{
+    "response": {
+        "timestamp": 1404830724,
+        "crimes": {
+            "year": "6-2013",
+            "region": [
+                {
+                    "id": "North East",
+                    "total": "138982"
+                },
+                {
+                    "id": "North West",
+                    "total": "444423"
+                },
+                {
+                    "id": "Yorkshire And Humber",
+                    "total": "356370"
+                },
+                {
+                    "id": "East Midlands",
+                    "total": "261294"
+                },
+                {
+                    "id": "West Midlands",
+                    "total": "318640"
+                },
+                {
+                    "id": "East Of England",
+                    "total": "309296"
+                },
+                {
+                    "id": "London",
+                    "total": "750185"
+                },
+                {
+                    "id": "South East",
+                    "total": "480596"
+                },
+                {
+                    "id": "South West",
+                    "total": "287206"
+                },
+                {
+                    "id": "Dyfed-Powys",
+                    "total": "18903"
+                },
+                {
+                    "id": "Gwent",
+                    "total": "34595"
+                },
+                {
+                    "id": "North Wales",
+                    "total": "36584"
+                },
+                {
+                    "id": "South Wales",
+                    "total": "83532"
+                }
+            ],
+            "national": [
+                {
+                    "id": "British Transport Police",
+                    "total": "51970"
+                },
+                {
+                    "id": "Action Fraud",
+                    "total": "150389"
+                }
+            ],
+            "england": {
+                "total": "3345788"
+            },
+            "wales": {
+                "total": "173614"
+            }
+        }
+    }
+}

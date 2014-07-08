@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1393433025">
+  <crimes year="6-2013">
+    <region id="West Midlands" total="52146">
+      <area id="Staffordshire" total="58897"/>
+      <area id="Warwickshire" total="29223"/>
+      <area id="West Mercia" total="59209"/>
+      <area id="West Midlands" total="171311"/>
+    </region>
+  </crimes>
+</response>

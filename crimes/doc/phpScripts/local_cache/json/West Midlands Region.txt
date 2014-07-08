@@ -1,0 +1,30 @@
+{
+    "response": {
+        "timestamp": 1392986848,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "West Midlands",
+                "total": "52146",
+                "area": [
+                    {
+                        "id": "Staffordshire",
+                        "total": "58897"
+                    },
+                    {
+                        "id": "Warwickshire",
+                        "total": "29223"
+                    },
+                    {
+                        "id": "West Mercia",
+                        "total": "59209"
+                    },
+                    {
+                        "id": "West Midlands",
+                        "total": "171311"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1393433023">
+  <crimes year="6-2013">
+    <region id="North East" total="52146">
+      <area id="Cleveland" total="39522"/>
+      <area id="Durham" total="29974"/>
+      <area id="Northumbria" total="69486"/>
+    </region>
+  </crimes>
+</response>

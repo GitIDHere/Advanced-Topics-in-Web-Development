@@ -1,0 +1,185 @@
+/* 
+	Font: Rambla, Creator: Martin Sommaruga
+	Found at: http://www.fontsquirrel.com/fonts/rambla?filter%5Btags%5D%5B%5D=headings&filter%5Bfamily_size%5D=1&filter%5Bdownload%5D=all&sort=a2z
+*/
+@font-face {
+	font-family: Rambla;
+	src: url("Rambla-Bold.otf") format("opentype");
+}
+
+body{
+	background:#EEEDF0;
+}
+
+
+header{
+	margin:0px auto;
+	padding-top:30px;
+	width:1080px;
+	background:#fff;
+	-webkit-box-shadow: 0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+}
+
+h1{
+	text-align:left;
+	width:100%;
+	padding:0px 0px 20px 50px;
+	font: bold 70px Rambla,sans-serif;
+	color:#B5124E;
+	text-decoration: none;
+	border-bottom: 7px solid #DBDBDB;
+}
+
+p.placeholderText{
+	font:700 20px Verdana, Geneva, sans-serif;
+	color:#B3B5B4;
+}
+
+section#topSection{
+	width:1080px;
+	height:430px;
+	margin:0px auto;
+	padding:10px 0px;
+	display: block;
+	background:#fff;
+	border-bottom: 2px solid #000;
+	-webkit-box-shadow: 0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+}
+
+section#topSection p{
+	margin:0px auto;
+	padding-top:150px;
+	width:500px;
+}
+
+section#midSection{
+	width:1080px;
+	height:400px;
+	margin:0px auto;
+	background:#fff;
+	border-bottom: 2px solid #000;
+	-webkit-box-shadow: 0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow: 0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+	box-shadow: 0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+}
+
+section#midSection p:first-child{
+	padding:150px 0px 0px 100px;
+	width:540px;
+	height:397px;
+	float:left;
+}
+
+section#infoDisplay{
+	width:540px;
+	height:397px;
+	float:right;
+	border-left:2px solid #000;
+}
+
+section#infoDisplay p:first-child{
+	padding-top:150px;
+	width:540px;
+	height:397px;
+	border-right:none;
+}
+
+
+table#legends{
+	width:540px;
+	margin-top:30px;
+}
+
+table#legends tr{
+	border-bottom: 2px solid #000;
+}
+
+table#legends tr#regionHeading td{
+	padding-bottom:15px;
+	border:none;
+	font:bold 20px Verdana, Geneva, sans-serif
+}
+
+table#legends tr#areaLegendHeading td{
+	font:bold 20px Arial, Helvetica, sans-serif;
+	padding-bottom:12px;
+}
+
+table#legends tr td:first-child{
+	text-align:right;
+	width:270px;
+	border-right:1px solid #000;
+}
+
+table#legends tr td:nth-child(2){
+	text-align:left;
+	width:270px;
+	margin-left:50px;
+}
+
+table#legends td{
+	padding:7px 18px;
+	text-align:center;
+	font:600 19px Tahoma, Geneva, sans-serif;
+}
+
+section#bottomSection{
+	width:1080px;
+	margin:0px auto;
+	background:#fff;
+	padding:20px 50px;
+	-webkit-box-shadow: 0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 0px 9px 0px rgba(50, 50, 50, 0.75);
+}
+
+h3{
+	padding: 10px 0px;
+	margin-bottom:10px;
+	font:bold 30px Verdana, Geneva, sans-serif;
+	color:#B3002D;
+	border-bottom: 2px solid #aaa;
+}
+
+
+/*
+	The CSS for the region buttons was used from: http://www.cssbuttongenerator.com/
+*/
+.button {
+	cursor:pointer;
+	box-shadow:inset 0px 1px 0px 0px #d1d1d1;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #d1d1d1) );
+	background:-moz-linear-gradient( center top, #ffffff 5%, #d1d1d1 100% );
+	background-color:#ffffff;
+	border-radius:6px;
+	text-indent:0;
+	border:1px solid #7a787a;
+	display:inline-block;
+	color:#777777;
+	font: bold 15px sans-serif;
+	padding:20px;
+	margin:5px;
+	width:150px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #ffffff;
+}
+
+.button:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #dfdfdf), color-stop(1, #ffffff) );
+	background:-moz-linear-gradient( center top, #dfdfdf 5%, #ffffff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#dfdfdf', endColorstr='#ffffff');
+	background-color:#dfdfdf;
+}
+
+.button:active {
+	position:relative;
+	top:1px;
+}
+/*
+	Used CSS code for the CSS button ends.
+*/

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=utf-8 />
+		<title>Client Visualisation</title>
+		<link rel="stylesheet" type="text/css" media="screen" href="reset.css" />
+		<link rel="stylesheet" type="text/css" media="screen" href="client.css" />
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+		<script src="Chart.js"></script>
+		<script type="text/javascript" src="jQueryDataHandler.js"></script>
+	</head>
+	<body>
+		<header>
+			<h1>Client Side Visualisation</h1>
+		</header>
+		<section id="topSection">
+			<p class="placeholderText">The bar chart will appear here...</p>
+		</section>
+		<section id="midSection">
+			<p class="placeholderText">The pie chart will appear here...</p>
+			<section id="infoDisplay">
+				<p class="placeholderText">The legends for the pie chart will appear here...</p>
+				<table id="legends"></table>
+			</section>
+		</section>
+		<section id="bottomSection">
+			<h3>Select a region</h3>
+			<button value="south_west" class="button">South West</button>
+			<button value="north_east" class="button">North East</button>
+			<button value="north_west" class="button">North West</button>
+			<button value="london" class="button">London</button>
+			<button value="south_east" class="button">South East</button>
+			<button value="east_midlands" class="button">East Midlands</button>
+			<button value="west_midlands" class="button">West Midlands</button>
+			<button value="yorkshire_and_humber" class="button">Yorkshire and Humber</button>
+			<button value="east_of_england" class="button">East of England</button>
+		</section>
+	</body>
+</html>

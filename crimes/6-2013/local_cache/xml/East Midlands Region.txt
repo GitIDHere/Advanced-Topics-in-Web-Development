@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1393433022">
+  <crimes year="6-2013">
+    <region id="East Midlands" total="52146">
+      <area id="Derbyshire" total="51749"/>
+      <area id="Leicestershire" total="58472"/>
+      <area id="Lincolnshire" total="37023"/>
+      <area id="Northamptonshire" total="45273"/>
+      <area id="Nottinghamshire" total="68777"/>
+    </region>
+  </crimes>
+</response>

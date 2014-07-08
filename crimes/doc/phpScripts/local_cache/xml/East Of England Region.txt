@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1392986842">
+  <crimes year="6-2013">
+    <region id="East Of England" total="52146">
+      <area id="Bedfordshire" total="35453"/>
+      <area id="Cambridgeshire" total="45091"/>
+      <area id="Essex" total="99741"/>
+      <area id="Hertfordshire" total="51868"/>
+      <area id="Norfolk" total="37996"/>
+      <area id="Suffolk" total="39147"/>
+    </region>
+  </crimes>
+</response>

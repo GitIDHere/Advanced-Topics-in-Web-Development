@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="crimes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="country"/>
+        <xs:element maxOccurs="unbounded" ref="national"/>
+        <xs:element ref="unitedkingdom"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="country">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="crimetype"/>
+        <xs:element maxOccurs="unbounded" ref="region"/>
+      </xs:sequence>
+      <xs:attribute name="name" use="required" type="xs:NCName"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="region">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="crimetype"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="area"/>
+      </xs:sequence>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="area">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="crimetype"/>
+      </xs:sequence>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="national">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="crimetype"/>
+      </xs:sequence>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="unitedkingdom">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="crimetype"/>
+      </xs:sequence>
+      <xs:attribute name="name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="crimetype">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="total"/>
+      </xs:sequence>
+      <xs:attribute name="id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="total">
+    <xs:complexType mixed="true">
+      <xs:attribute name="id" use="required"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

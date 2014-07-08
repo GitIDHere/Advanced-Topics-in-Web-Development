@@ -1,0 +1,29 @@
+<area>
+	<crimetype id="Victim-based crime">
+	  <total id="Total recorded crime - including fraud">0</total>
+	  <total id="Total recorded crime - excluding fraud">0</total>
+	  <total id="Violence against the person">0</total>
+	  <total id="Homicide">0</total>
+	  <total id="Violence with injury">0</total>
+	  <total id="Violence without injury">0</total>
+	  <total id="Sexual offences">0</total>
+	  <total id="Robbery">0</total>
+	  <total id="Theft offences">0</total>
+	  <total id="Burglary">0</total>
+	  <total id="Domestic burglary">0</total>
+	  <total id="Non-domestic burglary">0</total>
+	  <total id="Vehicle offences">0</total>
+	  <total id="Theft from the person">0</total>
+	  <total id="Bicycle theft">0</total>
+	  <total id="Shoplifting">0</total>
+	  <total id="All other theft offences">0</total>
+	  <total id="Criminal damage and arson">0</total>
+	</crimetype>
+	<crimetype id="Other crimes against society">
+	  <total id="Drug offences">0</total>
+	  <total id="Possession of weapons offences">0</total>
+	  <total id="Public order offences">0</total>
+	  <total id="Miscellaneous crimes against society">0</total>
+	  <total id="Fraud">0</total>
+	</crimetype>
+</area>

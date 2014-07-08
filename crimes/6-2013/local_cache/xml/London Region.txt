@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1393433022">
+  <crimes year="6-2013">
+    <region id="London" total="52146">
+      <area id="London, City of" total="5552"/>
+      <area id="Metropolitan Police" total="744633"/>
+    </region>
+  </crimes>
+</response>

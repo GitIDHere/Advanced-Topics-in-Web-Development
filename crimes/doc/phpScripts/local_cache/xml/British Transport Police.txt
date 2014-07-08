@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1392986849">
+  <crimes year="6-2013">
+    <region id="British Transport" total="52146"/>
+  </crimes>
+</response>

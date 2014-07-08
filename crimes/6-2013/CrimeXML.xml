@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crimes>
+  <country name="ENGLAND">
+    <crimetype id="Victim-based crime">
+      <total id="Total recorded crime - including fraud">3345832</total>
+      <total id="Total recorded crime - excluding fraud">3267603</total>
+      <total id="Violence against the person">560890</total>
+      <total id="Homicide">498</total>
+      <total id="Violence with injury">289344</total>
+      <total id="Violence without injury">271048</total>
+      <total id="Sexual offences">52235</total>
+      <total id="Robbery">61126</total>
+      <total id="Theft offences">1739191</total>
+      <total id="Burglary">434619</total>
+      <total id="Domestic burglary">216111</total>
+      <total id="Non-domestic burglary">218508</total>
+      <total id="Vehicle offences">364843</total>
+      <total id="Theft from the person">98134</total>
+      <total id="Bicycle theft">88504</total>
+      <total id="Shoplifting">289493</total>
+      <total id="All other theft offences">463598</total>
+      <total id="Criminal damage and arson">489316</total>
+    </crimetype>
+    <crimetype id="Other crimes against society">
+      <total id="Drug offences">190249</total>
+      <total id="Possession of weapons offences">18602</total>
+      <total id="Public order offences">116175</total>
+      <total id="Miscellaneous crimes against society">39819</total>
+      <total id="Fraud">77113</total>
+    </crimetype>
+    <region name="North East Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">138982</total>
+        <total id="Total recorded crime - excluding fraud">137311</total>
+        <total id="Violence against the person">19843</total>
+        <total id="Homicide">26</total>
+        <total id="Violence with injury">12165</total>
+        <total id="Violence without injury">7652</total>
+        <total id="Sexual offences">1837</total>
+        <total id="Robbery">832</total>
+        <total id="Theft offences">69326</total>
+        <total id="Burglary">17058</total>
+        <total id="Domestic burglary">6761</total>
+        <total id="Non-domestic burglary">10297</total>
+        <total id="Vehicle offences">12789</total>
+        <total id="Theft from the person">1597</total>
+        <total id="Bicycle theft">3502</total>
+        <total id="Shoplifting">16679</total>
+        <total id="All other theft offences">17701</total>
+        <total id="Criminal damage and arson">28879</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">8127</total>
+        <total id="Possession of weapons offences">1118</total>
+        <total id="Public order offences">5364</total>
+        <total id="Miscellaneous crimes against society">1985</total>
+        <total id="Fraud">1671</total>
+      </crimetype>
+      <area name="Cleveland">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">39522</total>
+          <total id="Total recorded crime - excluding fraud">39067</total>
+          <total id="Violence against the person">6370</total>
+          <total id="Homicide">3</total>
+          <total id="Violence with injury">3737</total>
+          <total id="Violence without injury">2630</total>
+          <total id="Sexual offences">563</total>
+          <total id="Robbery">259</total>
+          <total id="Theft offences">19811</total>
+          <total id="Burglary">4561</total>
+          <total id="Domestic burglary">2054</total>
+          <total id="Non-domestic burglary">2507</total>
+          <total id="Vehicle offences">3329</total>
+          <total id="Theft from the person">372</total>
+          <total id="Bicycle theft">994</total>
+          <total id="Shoplifting">5174</total>
+          <total id="All other theft offences">5381</total>
+          <total id="Criminal damage and arson">7934</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">2116</total>
+          <total id="Possession of weapons offences">267</total>
+          <total id="Public order offences">1342</total>
+          <total id="Miscellaneous crimes against society">405</total>
+          <total id="Fraud">455</total>
+        </crimetype>
+      </area>
+      <area name="Durham">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">29974</total>
+          <total id="Total recorded crime - excluding fraud">29669</total>
+          <total id="Violence against the person">4287</total>
+          <total id="Homicide">6</total>
+          <total id="Violence with injury">2420</total>
+          <total id="Violence without injury">1861</total>
+          <total id="Sexual offences">360</total>
+          <total id="Robbery">108</total>
+          <total id="Theft offences">15009</total>
+          <total id="Burglary">3983</total>
+          <total id="Domestic burglary">1385</total>
+          <total id="Non-domestic burglary">2598</total>
+          <total id="Vehicle offences">3355</total>
+          <total id="Theft from the person">149</total>
+          <total id="Bicycle theft">595</total>
+          <total id="Shoplifting">2827</total>
+          <total id="All other theft offences">4100</total>
+          <total id="Criminal damage and arson">6752</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1281</total>
+          <total id="Possession of weapons offences">218</total>
+          <total id="Public order offences">1178</total>
+          <total id="Miscellaneous crimes against society">476</total>
+          <total id="Fraud">305</total>
+        </crimetype>
+      </area>
+      <area name="Northumbria">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">69486</total>
+          <total id="Total recorded crime - excluding fraud">68575</total>
+          <total id="Violence against the person">9186</total>
+          <total id="Homicide">17</total>
+          <total id="Violence with injury">6008</total>
+          <total id="Violence without injury">3161</total>
+          <total id="Sexual offences">914</total>
+          <total id="Robbery">465</total>
+          <total id="Theft offences">34506</total>
+          <total id="Burglary">8514</total>
+          <total id="Domestic burglary">3322</total>
+          <total id="Non-domestic burglary">5192</total>
+          <total id="Vehicle offences">6105</total>
+          <total id="Theft from the person">1076</total>
+          <total id="Bicycle theft">1913</total>
+          <total id="Shoplifting">8678</total>
+          <total id="All other theft offences">8220</total>
+          <total id="Criminal damage and arson">14193</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">4730</total>
+          <total id="Possession of weapons offences">633</total>
+          <total id="Public order offences">2844</total>
+          <total id="Miscellaneous crimes against society">1104</total>
+          <total id="Fraud">911</total>
+        </crimetype>
+      </area>
+    </region>
+    <region name="North West Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">444423</total>
+        <total id="Total recorded crime - excluding fraud">436851</total>
+        <total id="Violence against the person">73154</total>
+        <total id="Homicide">73</total>
+        <total id="Violence with injury">38703</total>
+        <total id="Violence without injury">34378</total>
+        <total id="Sexual offences">7267</total>
+        <total id="Robbery">6126</total>
+        <total id="Theft offences">222487</total>
+        <total id="Burglary">60974</total>
+        <total id="Domestic burglary">29661</total>
+        <total id="Non-domestic burglary">31313</total>
+        <total id="Vehicle offences">45172</total>
+        <total id="Theft from the person">10023</total>
+        <total id="Bicycle theft">10570</total>
+        <total id="Shoplifting">40394</total>
+        <total id="All other theft offences">55354</total>
+        <total id="Criminal damage and arson">77633</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">27490</total>
+        <total id="Possession of weapons offences">2643</total>
+        <total id="Public order offences">15329</total>
+        <total id="Miscellaneous crimes against society">4722</total>
+        <total id="Fraud">7572</total>
+      </crimetype>
+      <area name="Cheshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">57908</total>
+          <total id="Total recorded crime - excluding fraud">56685</total>
+          <total id="Violence against the person">10882</total>
+          <total id="Homicide">5</total>
+          <total id="Violence with injury">4889</total>
+          <total id="Violence without injury">5988</total>
+          <total id="Sexual offences">880</total>
+          <total id="Robbery">321</total>
+          <total id="Theft offences">28840</total>
+          <total id="Burglary">6884</total>
+          <total id="Domestic burglary">2895</total>
+          <total id="Non-domestic burglary">3989</total>
+          <total id="Vehicle offences">5706</total>
+          <total id="Theft from the person">954</total>
+          <total id="Bicycle theft">1793</total>
+          <total id="Shoplifting">6580</total>
+          <total id="All other theft offences">6923</total>
+          <total id="Criminal damage and arson">9976</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">2825</total>
+          <total id="Possession of weapons offences">260</total>
+          <total id="Public order offences">2123</total>
+          <total id="Miscellaneous crimes against society">578</total>
+          <total id="Fraud">1223</total>
+        </crimetype>
+      </area>
+      <area name="Cumbria">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">23286</total>
+          <total id="Total recorded crime - excluding fraud">22970</total>
+          <total id="Violence against the person">4454</total>
+          <total id="Homicide">6</total>
+          <total id="Violence with injury">2331</total>
+          <total id="Violence without injury">2117</total>
+          <total id="Sexual offences">371</total>
+          <total id="Robbery">58</total>
+          <total id="Theft offences">9784</total>
+          <total id="Burglary">2297</total>
+          <total id="Domestic burglary">678</total>
+          <total id="Non-domestic burglary">1619</total>
+          <total id="Vehicle offences">1571</total>
+          <total id="Theft from the person">137</total>
+          <total id="Bicycle theft">432</total>
+          <total id="Shoplifting">2459</total>
+          <total id="All other theft offences">2888</total>
+          <total id="Criminal damage and arson">5290</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1531</total>
+          <total id="Possession of weapons offences">143</total>
+          <total id="Public order offences">1008</total>
+          <total id="Miscellaneous crimes against society">331</total>
+          <total id="Fraud">316</total>
+        </crimetype>
+      </area>
+      <area name="Greater Manchester">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">178857</total>
+          <total id="Total recorded crime - excluding fraud">176276</total>
+          <total id="Violence against the person">27933</total>
+          <total id="Homicide">36</total>
+          <total id="Violence with injury">14293</total>
+          <total id="Violence without injury">13604</total>
+          <total id="Sexual offences">2940</total>
+          <total id="Robbery">3898</total>
+          <total id="Theft offences">94336</total>
+          <total id="Burglary">28363</total>
+          <total id="Domestic burglary">15348</total>
+          <total id="Non-domestic burglary">13015</total>
+          <total id="Vehicle offences">20700</total>
+          <total id="Theft from the person">5456</total>
+          <total id="Bicycle theft">4518</total>
+          <total id="Shoplifting">13889</total>
+          <total id="All other theft offences">21410</total>
+          <total id="Criminal damage and arson">28765</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">9004</total>
+          <total id="Possession of weapons offences">1063</total>
+          <total id="Public order offences">6431</total>
+          <total id="Miscellaneous crimes against society">1906</total>
+          <total id="Fraud">2581</total>
+        </crimetype>
+      </area>
+      <area name="Lancashire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">93427</total>
+          <total id="Total recorded crime - excluding fraud">91604</total>
+          <total id="Violence against the person">18562</total>
+          <total id="Homicide">14</total>
+          <total id="Violence with injury">10654</total>
+          <total id="Violence without injury">7894</total>
+          <total id="Sexual offences">1738</total>
+          <total id="Robbery">626</total>
+          <total id="Theft offences">46045</total>
+          <total id="Burglary">11856</total>
+          <total id="Domestic burglary">4321</total>
+          <total id="Non-domestic burglary">7535</total>
+          <total id="Vehicle offences">8527</total>
+          <total id="Theft from the person">958</total>
+          <total id="Bicycle theft">2135</total>
+          <total id="Shoplifting">8286</total>
+          <total id="All other theft offences">14283</total>
+          <total id="Criminal damage and arson">16589</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">3961</total>
+          <total id="Possession of weapons offences">514</total>
+          <total id="Public order offences">2618</total>
+          <total id="Miscellaneous crimes against society">951</total>
+          <total id="Fraud">1823</total>
+        </crimetype>
+      </area>
+      <area name="Merseyside">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">90945</total>
+          <total id="Total recorded crime - excluding fraud">89316</total>
+          <total id="Violence against the person">11323</total>
+          <total id="Homicide">12</total>
+          <total id="Violence with injury">6536</total>
+          <total id="Violence without injury">4775</total>
+          <total id="Sexual offences">1338</total>
+          <total id="Robbery">1223</total>
+          <total id="Theft offences">43482</total>
+          <total id="Burglary">11574</total>
+          <total id="Domestic burglary">6419</total>
+          <total id="Non-domestic burglary">5155</total>
+          <total id="Vehicle offences">8668</total>
+          <total id="Theft from the person">2518</total>
+          <total id="Bicycle theft">1692</total>
+          <total id="Shoplifting">9180</total>
+          <total id="All other theft offences">9850</total>
+          <total id="Criminal damage and arson">17013</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">10169</total>
+          <total id="Possession of weapons offences">663</total>
+          <total id="Public order offences">3149</total>
+          <total id="Miscellaneous crimes against society">956</total>
+          <total id="Fraud">1629</total>
+        </crimetype>
+      </area>
+    </region>
+    <region name="Yorkshire And Humber Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">356370</total>
+        <total id="Total recorded crime - excluding fraud">348709</total>
+        <total id="Violence against the person">49400</total>
+        <total id="Homicide">44</total>
+        <total id="Violence with injury">29409</total>
+        <total id="Violence without injury">19947</total>
+        <total id="Sexual offences">5472</total>
+        <total id="Robbery">3540</total>
+        <total id="Theft offences">198989</total>
+        <total id="Burglary">57702</total>
+        <total id="Domestic burglary">26626</total>
+        <total id="Non-domestic burglary">31076</total>
+        <total id="Vehicle offences">41539</total>
+        <total id="Theft from the person">7856</total>
+        <total id="Bicycle theft">7068</total>
+        <total id="Shoplifting">34298</total>
+        <total id="All other theft offences">50526</total>
+        <total id="Criminal damage and arson">59185</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">15520</total>
+        <total id="Possession of weapons offences">1649</total>
+        <total id="Public order offences">10546</total>
+        <total id="Miscellaneous crimes against society">4408</total>
+        <total id="Fraud">7661</total>
+      </crimetype>
+      <area name="Humberside">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">64707</total>
+          <total id="Total recorded crime - excluding fraud">63492</total>
+          <total id="Violence against the person">11461</total>
+          <total id="Homicide">6</total>
+          <total id="Violence with injury">6811</total>
+          <total id="Violence without injury">4644</total>
+          <total id="Sexual offences">1219</total>
+          <total id="Robbery">479</total>
+          <total id="Theft offences">33016</total>
+          <total id="Burglary">10120</total>
+          <total id="Domestic burglary">3832</total>
+          <total id="Non-domestic burglary">6288</total>
+          <total id="Vehicle offences">4834</total>
+          <total id="Theft from the person">581</total>
+          <total id="Bicycle theft">2332</total>
+          <total id="Shoplifting">6844</total>
+          <total id="All other theft offences">8305</total>
+          <total id="Criminal damage and arson">11020</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">2459</total>
+          <total id="Possession of weapons offences">277</total>
+          <total id="Public order offences">2723</total>
+          <total id="Miscellaneous crimes against society">838</total>
+          <total id="Fraud">1215</total>
+        </crimetype>
+      </area>
+      <area name="North Yorkshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">34801</total>
+          <total id="Total recorded crime - excluding fraud">33901</total>
+          <total id="Violence against the person">6009</total>
+          <total id="Homicide">5</total>
+          <total id="Violence with injury">3548</total>
+          <total id="Violence without injury">2456</total>
+          <total id="Sexual offences">666</total>
+          <total id="Robbery">123</total>
+          <total id="Theft offences">17605</total>
+          <total id="Burglary">4313</total>
+          <total id="Domestic burglary">1619</total>
+          <total id="Non-domestic burglary">2694</total>
+          <total id="Vehicle offences">2689</total>
+          <total id="Theft from the person">477</total>
+          <total id="Bicycle theft">1179</total>
+          <total id="Shoplifting">3722</total>
+          <total id="All other theft offences">5225</total>
+          <total id="Criminal damage and arson">5867</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1862</total>
+          <total id="Possession of weapons offences">178</total>
+          <total id="Public order offences">1121</total>
+          <total id="Miscellaneous crimes against society">470</total>
+          <total id="Fraud">900</total>
+        </crimetype>
+      </area>
+      <area name="South Yorkshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">93116</total>
+          <total id="Total recorded crime - excluding fraud">91437</total>
+          <total id="Violence against the person">10450</total>
+          <total id="Homicide">18</total>
+          <total id="Violence with injury">7313</total>
+          <total id="Violence without injury">3119</total>
+          <total id="Sexual offences">903</total>
+          <total id="Robbery">964</total>
+          <total id="Theft offences">54647</total>
+          <total id="Burglary">16661</total>
+          <total id="Domestic burglary">8206</total>
+          <total id="Non-domestic burglary">8455</total>
+          <total id="Vehicle offences">12439</total>
+          <total id="Theft from the person">1805</total>
+          <total id="Bicycle theft">1448</total>
+          <total id="Shoplifting">9680</total>
+          <total id="All other theft offences">12614</total>
+          <total id="Criminal damage and arson">16644</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">4401</total>
+          <total id="Possession of weapons offences">505</total>
+          <total id="Public order offences">2029</total>
+          <total id="Miscellaneous crimes against society">894</total>
+          <total id="Fraud">1679</total>
+        </crimetype>
+      </area>
+      <area name="West Yorkshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">163746</total>
+          <total id="Total recorded crime - excluding fraud">159879</total>
+          <total id="Violence against the person">21480</total>
+          <total id="Homicide">15</total>
+          <total id="Violence with injury">11737</total>
+          <total id="Violence without injury">9728</total>
+          <total id="Sexual offences">2684</total>
+          <total id="Robbery">1974</total>
+          <total id="Theft offences">93721</total>
+          <total id="Burglary">26608</total>
+          <total id="Domestic burglary">12969</total>
+          <total id="Non-domestic burglary">13639</total>
+          <total id="Vehicle offences">21577</total>
+          <total id="Theft from the person">4993</total>
+          <total id="Bicycle theft">2109</total>
+          <total id="Shoplifting">14052</total>
+          <total id="All other theft offences">24382</total>
+          <total id="Criminal damage and arson">25654</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">6798</total>
+          <total id="Possession of weapons offences">689</total>
+          <total id="Public order offences">4673</total>
+          <total id="Miscellaneous crimes against society">2206</total>
+          <total id="Fraud">3867</total>
+        </crimetype>
+      </area>
+    </region>
+    <region name="East Midlands Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">261294</total>
+        <total id="Total recorded crime - excluding fraud">257129</total>
+        <total id="Violence against the person">46405</total>
+        <total id="Homicide">39</total>
+        <total id="Violence with injury">23768</total>
+        <total id="Violence without injury">22598</total>
+        <total id="Sexual offences">4221</total>
+        <total id="Robbery">3018</total>
+        <total id="Theft offences">136146</total>
+        <total id="Burglary">34891</total>
+        <total id="Domestic burglary">16040</total>
+        <total id="Non-domestic burglary">18851</total>
+        <total id="Vehicle offences">27487</total>
+        <total id="Theft from the person">5608</total>
+        <total id="Bicycle theft">7685</total>
+        <total id="Shoplifting">26882</total>
+        <total id="All other theft offences">33593</total>
+        <total id="Criminal damage and arson">42939</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">12027</total>
+        <total id="Possession of weapons offences">1543</total>
+        <total id="Public order offences">7628</total>
+        <total id="Miscellaneous crimes against society">3202</total>
+        <total id="Fraud">4165</total>
+      </crimetype>
+      <area name="Derbyshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">51749</total>
+          <total id="Total recorded crime - excluding fraud">50970</total>
+          <total id="Violence against the person">9529</total>
+          <total id="Homicide">3</total>
+          <total id="Violence with injury">5220</total>
+          <total id="Violence without injury">4306</total>
+          <total id="Sexual offences">840</total>
+          <total id="Robbery">540</total>
+          <total id="Theft offences">26478</total>
+          <total id="Burglary">7279</total>
+          <total id="Domestic burglary">2868</total>
+          <total id="Non-domestic burglary">4411</total>
+          <total id="Vehicle offences">5420</total>
+          <total id="Theft from the person">673</total>
+          <total id="Bicycle theft">1199</total>
+          <total id="Shoplifting">5090</total>
+          <total id="All other theft offences">6817</total>
+          <total id="Criminal damage and arson">8855</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">2651</total>
+          <total id="Possession of weapons offences">277</total>
+          <total id="Public order offences">1183</total>
+          <total id="Miscellaneous crimes against society">617</total>
+          <total id="Fraud">779</total>
+        </crimetype>
+      </area>
+      <area name="Leicestershire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">58472</total>
+          <total id="Total recorded crime - excluding fraud">57352</total>
+          <total id="Violence against the person">10157</total>
+          <total id="Homicide">10</total>
+          <total id="Violence with injury">4442</total>
+          <total id="Violence without injury">5705</total>
+          <total id="Sexual offences">1024</total>
+          <total id="Robbery">705</total>
+          <total id="Theft offences">30428</total>
+          <total id="Burglary">7161</total>
+          <total id="Domestic burglary">3743</total>
+          <total id="Non-domestic burglary">3418</total>
+          <total id="Vehicle offences">6516</total>
+          <total id="Theft from the person">1388</total>
+          <total id="Bicycle theft">2167</total>
+          <total id="Shoplifting">5541</total>
+          <total id="All other theft offences">7655</total>
+          <total id="Criminal damage and arson">9430</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">2223</total>
+          <total id="Possession of weapons offences">297</total>
+          <total id="Public order offences">2342</total>
+          <total id="Miscellaneous crimes against society">746</total>
+          <total id="Fraud">1120</total>
+        </crimetype>
+      </area>
+      <area name="Lincolnshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">37023</total>
+          <total id="Total recorded crime - excluding fraud">36527</total>
+          <total id="Violence against the person">5620</total>
+          <total id="Homicide">6</total>
+          <total id="Violence with injury">2999</total>
+          <total id="Violence without injury">2615</total>
+          <total id="Sexual offences">579</total>
+          <total id="Robbery">172</total>
+          <total id="Theft offences">20428</total>
+          <total id="Burglary">5386</total>
+          <total id="Domestic burglary">1932</total>
+          <total id="Non-domestic burglary">3454</total>
+          <total id="Vehicle offences">3316</total>
+          <total id="Theft from the person">400</total>
+          <total id="Bicycle theft">1466</total>
+          <total id="Shoplifting">4645</total>
+          <total id="All other theft offences">5215</total>
+          <total id="Criminal damage and arson">6026</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1541</total>
+          <total id="Possession of weapons offences">250</total>
+          <total id="Public order offences">1357</total>
+          <total id="Miscellaneous crimes against society">554</total>
+          <total id="Fraud">496</total>
+        </crimetype>
+      </area>
+      <area name="Northamptonshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">45273</total>
+          <total id="Total recorded crime - excluding fraud">44330</total>
+          <total id="Violence against the person">7882</total>
+          <total id="Homicide">6</total>
+          <total id="Violence with injury">4001</total>
+          <total id="Violence without injury">3875</total>
+          <total id="Sexual offences">758</total>
+          <total id="Robbery">596</total>
+          <total id="Theft offences">23626</total>
+          <total id="Burglary">6459</total>
+          <total id="Domestic burglary">3144</total>
+          <total id="Non-domestic burglary">3315</total>
+          <total id="Vehicle offences">5342</total>
+          <total id="Theft from the person">1167</total>
+          <total id="Bicycle theft">898</total>
+          <total id="Shoplifting">4468</total>
+          <total id="All other theft offences">5292</total>
+          <total id="Criminal damage and arson">7966</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1798</total>
+          <total id="Possession of weapons offences">247</total>
+          <total id="Public order offences">953</total>
+          <total id="Miscellaneous crimes against society">504</total>
+          <total id="Fraud">943</total>
+        </crimetype>
+      </area>
+      <area name="Nottinghamshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">68777</total>
+          <total id="Total recorded crime - excluding fraud">67950</total>
+          <total id="Violence against the person">13217</total>
+          <total id="Homicide">14</total>
+          <total id="Violence with injury">7106</total>
+          <total id="Violence without injury">6097</total>
+          <total id="Sexual offences">1020</total>
+          <total id="Robbery">1005</total>
+          <total id="Theft offences">35186</total>
+          <total id="Burglary">8606</total>
+          <total id="Domestic burglary">4353</total>
+          <total id="Non-domestic burglary">4253</total>
+          <total id="Vehicle offences">6893</total>
+          <total id="Theft from the person">1980</total>
+          <total id="Bicycle theft">1955</total>
+          <total id="Shoplifting">7138</total>
+          <total id="All other theft offences">8614</total>
+          <total id="Criminal damage and arson">10662</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">3814</total>
+          <total id="Possession of weapons offences">472</total>
+          <total id="Public order offences">1793</total>
+          <total id="Miscellaneous crimes against society">781</total>
+          <total id="Fraud">827</total>
+        </crimetype>
+      </area>
+    </region>
+    <region name="West Midlands Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">318640</total>
+        <total id="Total recorded crime - excluding fraud">311353</total>
+        <total id="Violence against the person">59126</total>
+        <total id="Homicide">63</total>
+        <total id="Violence with injury">34005</total>
+        <total id="Violence without injury">25058</total>
+        <total id="Sexual offences">5666</total>
+        <total id="Robbery">6481</total>
+        <total id="Theft offences">158116</total>
+        <total id="Burglary">42709</total>
+        <total id="Domestic burglary">20520</total>
+        <total id="Non-domestic burglary">22189</total>
+        <total id="Vehicle offences">37927</total>
+        <total id="Theft from the person">5033</total>
+        <total id="Bicycle theft">5978</total>
+        <total id="Shoplifting">27957</total>
+        <total id="All other theft offences">38512</total>
+        <total id="Criminal damage and arson">49208</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">16248</total>
+        <total id="Possession of weapons offences">2003</total>
+        <total id="Public order offences">10231</total>
+        <total id="Miscellaneous crimes against society">4274</total>
+        <total id="Fraud">7287</total>
+      </crimetype>
+      <area name="Staffordshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">58897</total>
+          <total id="Total recorded crime - excluding fraud">57493</total>
+          <total id="Violence against the person">13299</total>
+          <total id="Homicide">4</total>
+          <total id="Violence with injury">6982</total>
+          <total id="Violence without injury">6313</total>
+          <total id="Sexual offences">1171</total>
+          <total id="Robbery">485</total>
+          <total id="Theft offences">25557</total>
+          <total id="Burglary">6634</total>
+          <total id="Domestic burglary">2712</total>
+          <total id="Non-domestic burglary">3922</total>
+          <total id="Vehicle offences">4741</total>
+          <total id="Theft from the person">486</total>
+          <total id="Bicycle theft">894</total>
+          <total id="Shoplifting">5148</total>
+          <total id="All other theft offences">7654</total>
+          <total id="Criminal damage and arson">10410</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">3549</total>
+          <total id="Possession of weapons offences">320</total>
+          <total id="Public order offences">1825</total>
+          <total id="Miscellaneous crimes against society">877</total>
+          <total id="Fraud">1404</total>
+        </crimetype>
+      </area>
+      <area name="Warwickshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">29223</total>
+          <total id="Total recorded crime - excluding fraud">28751</total>
+          <total id="Violence against the person">4178</total>
+          <total id="Homicide">1</total>
+          <total id="Violence with injury">2600</total>
+          <total id="Violence without injury">1577</total>
+          <total id="Sexual offences">481</total>
+          <total id="Robbery">253</total>
+          <total id="Theft offences">16745</total>
+          <total id="Burglary">4290</total>
+          <total id="Domestic burglary">1855</total>
+          <total id="Non-domestic burglary">2435</total>
+          <total id="Vehicle offences">4185</total>
+          <total id="Theft from the person">290</total>
+          <total id="Bicycle theft">722</total>
+          <total id="Shoplifting">2211</total>
+          <total id="All other theft offences">5047</total>
+          <total id="Criminal damage and arson">4500</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1427</total>
+          <total id="Possession of weapons offences">126</total>
+          <total id="Public order offences">724</total>
+          <total id="Miscellaneous crimes against society">317</total>
+          <total id="Fraud">472</total>
+        </crimetype>
+      </area>
+      <area name="West Mercia">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">59209</total>
+          <total id="Total recorded crime - excluding fraud">58239</total>
+          <total id="Violence against the person">11262</total>
+          <total id="Homicide">16</total>
+          <total id="Violence with injury">6336</total>
+          <total id="Violence without injury">4910</total>
+          <total id="Sexual offences">1228</total>
+          <total id="Robbery">379</total>
+          <total id="Theft offences">29572</total>
+          <total id="Burglary">7536</total>
+          <total id="Domestic burglary">2588</total>
+          <total id="Non-domestic burglary">4948</total>
+          <total id="Vehicle offences">5908</total>
+          <total id="Theft from the person">568</total>
+          <total id="Bicycle theft">1336</total>
+          <total id="Shoplifting">5895</total>
+          <total id="All other theft offences">8329</total>
+          <total id="Criminal damage and arson">9413</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">3140</total>
+          <total id="Possession of weapons offences">335</total>
+          <total id="Public order offences">2040</total>
+          <total id="Miscellaneous crimes against society">870</total>
+          <total id="Fraud">970</total>
+        </crimetype>
+      </area>
+      <area name="West Midlands">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">171311</total>
+          <total id="Total recorded crime - excluding fraud">166870</total>
+          <total id="Violence against the person">30387</total>
+          <total id="Homicide">42</total>
+          <total id="Violence with injury">18087</total>
+          <total id="Violence without injury">12258</total>
+          <total id="Sexual offences">2786</total>
+          <total id="Robbery">5364</total>
+          <total id="Theft offences">86242</total>
+          <total id="Burglary">24249</total>
+          <total id="Domestic burglary">13365</total>
+          <total id="Non-domestic burglary">10884</total>
+          <total id="Vehicle offences">23093</total>
+          <total id="Theft from the person">3689</total>
+          <total id="Bicycle theft">3026</total>
+          <total id="Shoplifting">14703</total>
+          <total id="All other theft offences">17482</total>
+          <total id="Criminal damage and arson">24885</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">8132</total>
+          <total id="Possession of weapons offences">1222</total>
+          <total id="Public order offences">5642</total>
+          <total id="Miscellaneous crimes against society">2210</total>
+          <total id="Fraud">4441</total>
+        </crimetype>
+      </area>
+    </region>
+    <region name="East Of England Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">309296</total>
+        <total id="Total recorded crime - excluding fraud">303306</total>
+        <total id="Violence against the person"/>
+        <total id="Homicide">53027</total>
+        <total id="Violence with injury">59</total>
+        <total id="Violence without injury">26443</total>
+        <total id="Sexual offences">26525</total>
+        <total id="Robbery">4855</total>
+        <total id="Theft offences">2948</total>
+        <total id="Burglary">159330</total>
+        <total id="Domestic burglary">39031</total>
+        <total id="Non-domestic burglary">19487</total>
+        <total id="Vehicle offences">19544</total>
+        <total id="Theft from the person">33852</total>
+        <total id="Bicycle theft">5380</total>
+        <total id="Shoplifting">10416</total>
+        <total id="All other theft offences">29896</total>
+        <total id="Criminal damage and arson">40755</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">48347</total>
+        <total id="Possession of weapons offences">17697</total>
+        <total id="Public order offences">2051</total>
+        <total id="Miscellaneous crimes against society">11102</total>
+        <total id="Fraud">3949</total>
+      </crimetype>
+      <area name="Bedfordshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">35453</total>
+          <total id="Total recorded crime - excluding fraud">34937</total>
+          <total id="Violence against the person">5977</total>
+          <total id="Homicide">7</total>
+          <total id="Violence with injury">3103</total>
+          <total id="Violence without injury">2867</total>
+          <total id="Sexual offences">481</total>
+          <total id="Robbery">615</total>
+          <total id="Theft offences">18693</total>
+          <total id="Burglary">4960</total>
+          <total id="Domestic burglary">2885</total>
+          <total id="Non-domestic burglary">2075</total>
+          <total id="Vehicle offences">4510</total>
+          <total id="Theft from the person">561</total>
+          <total id="Bicycle theft">983</total>
+          <total id="Shoplifting">3198</total>
+          <total id="All other theft offences">4481</total>
+          <total id="Criminal damage and arson">5746</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1542</total>
+          <total id="Possession of weapons offences">264</total>
+          <total id="Public order offences">1128</total>
+          <total id="Miscellaneous crimes against society">491</total>
+          <total id="Fraud">516</total>
+        </crimetype>
+      </area>
+      <area name="Cambridgeshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">45091</total>
+          <total id="Total recorded crime - excluding fraud">43995</total>
+          <total id="Violence against the person">6170</total>
+          <total id="Homicide">9</total>
+          <total id="Violence with injury">2873</total>
+          <total id="Violence without injury">3288</total>
+          <total id="Sexual offences">672</total>
+          <total id="Robbery">332</total>
+          <total id="Theft offences">25537</total>
+          <total id="Burglary">5501</total>
+          <total id="Domestic burglary">2573</total>
+          <total id="Non-domestic burglary">2928</total>
+          <total id="Vehicle offences">4483</total>
+          <total id="Theft from the person">985</total>
+          <total id="Bicycle theft">3611</total>
+          <total id="Shoplifting">4442</total>
+          <total id="All other theft offences">6515</total>
+          <total id="Criminal damage and arson">6406</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">2874</total>
+          <total id="Possession of weapons offences">217</total>
+          <total id="Public order offences">1281</total>
+          <total id="Miscellaneous crimes against society">506</total>
+          <total id="Fraud">1096</total>
+        </crimetype>
+      </area>
+      <area name="Essex">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">99741</total>
+          <total id="Total recorded crime - excluding fraud">97916</total>
+          <total id="Violence against the person">17915</total>
+          <total id="Homicide">20</total>
+          <total id="Violence with injury">8829</total>
+          <total id="Violence without injury">9066</total>
+          <total id="Sexual offences">1527</total>
+          <total id="Robbery">1172</total>
+          <total id="Theft offences">53708</total>
+          <total id="Burglary">14367</total>
+          <total id="Domestic burglary">7874</total>
+          <total id="Non-domestic burglary">6493</total>
+          <total id="Vehicle offences">12856</total>
+          <total id="Theft from the person">1699</total>
+          <total id="Bicycle theft">2248</total>
+          <total id="Shoplifting">9274</total>
+          <total id="All other theft offences">13264</total>
+          <total id="Criminal damage and arson">14309</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">4122</total>
+          <total id="Possession of weapons offences">832</total>
+          <total id="Public order offences">3203</total>
+          <total id="Miscellaneous crimes against society">1128</total>
+          <total id="Fraud">1825</total>
+        </crimetype>
+      </area>
+      <area name="Hertfordshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">51868</total>
+          <total id="Total recorded crime - excluding fraud">50542</total>
+          <total id="Violence against the person">7822</total>
+          <total id="Homicide">10</total>
+          <total id="Violence with injury">4080</total>
+          <total id="Violence without injury">3732</total>
+          <total id="Sexual offences">691</total>
+          <total id="Robbery">439</total>
+          <total id="Theft offences">25608</total>
+          <total id="Burglary">5648</total>
+          <total id="Domestic burglary">2900</total>
+          <total id="Non-domestic burglary">2748</total>
+          <total id="Vehicle offences">5537</total>
+          <total id="Theft from the person">1336</total>
+          <total id="Bicycle theft">1174</total>
+          <total id="Shoplifting">5409</total>
+          <total id="All other theft offences">6504</total>
+          <total id="Criminal damage and arson">8054</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">4785</total>
+          <total id="Possession of weapons offences">293</total>
+          <total id="Public order offences">2062</total>
+          <total id="Miscellaneous crimes against society">788</total>
+          <total id="Fraud">1326</total>
+        </crimetype>
+      </area>
+      <area name="Norfolk">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">37996</total>
+          <total id="Total recorded crime - excluding fraud">37493</total>
+          <total id="Violence against the person">8034</total>
+          <total id="Homicide">5</total>
+          <total id="Violence with injury">3875</total>
+          <total id="Violence without injury">4154</total>
+          <total id="Sexual offences">776</total>
+          <total id="Robbery">164</total>
+          <total id="Theft offences">17058</total>
+          <total id="Burglary">3779</total>
+          <total id="Domestic burglary">1383</total>
+          <total id="Non-domestic burglary">2396</total>
+          <total id="Vehicle offences">2774</total>
+          <total id="Theft from the person">376</total>
+          <total id="Bicycle theft">1241</total>
+          <total id="Shoplifting">3852</total>
+          <total id="All other theft offences">5036</total>
+          <total id="Criminal damage and arson">6988</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">2413</total>
+          <total id="Possession of weapons offences">212</total>
+          <total id="Public order offences">1483</total>
+          <total id="Miscellaneous crimes against society">365</total>
+          <total id="Fraud">503</total>
+        </crimetype>
+      </area>
+      <area name="Suffolk">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">39147</total>
+          <total id="Total recorded crime - excluding fraud">38423</total>
+          <total id="Violence against the person">7109</total>
+          <total id="Homicide">8</total>
+          <total id="Violence with injury">3683</total>
+          <total id="Violence without injury">3418</total>
+          <total id="Sexual offences">708</total>
+          <total id="Robbery">226</total>
+          <total id="Theft offences">18726</total>
+          <total id="Burglary">4776</total>
+          <total id="Domestic burglary">1872</total>
+          <total id="Non-domestic burglary">2904</total>
+          <total id="Vehicle offences">3692</total>
+          <total id="Theft from the person">423</total>
+          <total id="Bicycle theft">1159</total>
+          <total id="Shoplifting">3721</total>
+          <total id="All other theft offences">4955</total>
+          <total id="Criminal damage and arson">6844</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1961</total>
+          <total id="Possession of weapons offences">233</total>
+          <total id="Public order offences">1945</total>
+          <total id="Miscellaneous crimes against society">671</total>
+          <total id="Fraud">724</total>
+        </crimetype>
+      </area>
+    </region>
+    <region name="London Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">750185</total>
+        <total id="Total recorded crime - excluding fraud">723399</total>
+        <total id="Violence against the person">123722</total>
+        <total id="Homicide">99</total>
+        <total id="Violence with injury">56794</total>
+        <total id="Violence without injury">66829</total>
+        <total id="Sexual offences">9955</total>
+        <total id="Robbery">32762</total>
+        <total id="Theft offences">409859</total>
+        <total id="Burglary">91083</total>
+        <total id="Domestic burglary">59145</total>
+        <total id="Non-domestic burglary">31938</total>
+        <total id="Vehicle offences">92445</total>
+        <total id="Theft from the person">49257</total>
+        <total id="Bicycle theft">20486</total>
+        <total id="Shoplifting">37502</total>
+        <total id="All other theft offences">119086</total>
+        <total id="Criminal damage and arson">57544</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">51263</total>
+        <total id="Possession of weapons offences">3773</total>
+        <total id="Public order offences">26630</total>
+        <total id="Miscellaneous crimes against society">7891</total>
+        <total id="Fraud">26786</total>
+      </crimetype>
+      <area name="London, City of">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">5552</total>
+          <total id="Total recorded crime - excluding fraud">5522</total>
+          <total id="Violence against the person">534</total>
+          <total id="Homicide">0</total>
+          <total id="Violence with injury">298</total>
+          <total id="Violence without injury">236</total>
+          <total id="Sexual offences">50</total>
+          <total id="Robbery">48</total>
+          <total id="Theft offences">3761</total>
+          <total id="Burglary">341</total>
+          <total id="Domestic burglary">34</total>
+          <total id="Non-domestic burglary">307</total>
+          <total id="Vehicle offences">188</total>
+          <total id="Theft from the person">353</total>
+          <total id="Bicycle theft">326</total>
+          <total id="Shoplifting">584</total>
+          <total id="All other theft offences">1969</total>
+          <total id="Criminal damage and arson">237</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">488</total>
+          <total id="Possession of weapons offences">22</total>
+          <total id="Public order offences">201</total>
+          <total id="Miscellaneous crimes against society">181</total>
+          <total id="Fraud">30</total>
+        </crimetype>
+      </area>
+      <area name="Metropolitan Police">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">744633</total>
+          <total id="Total recorded crime - excluding fraud">717877</total>
+          <total id="Violence against the person">123188</total>
+          <total id="Homicide">99</total>
+          <total id="Violence with injury">56496</total>
+          <total id="Violence without injury">66593</total>
+          <total id="Sexual offences">9905</total>
+          <total id="Robbery">32714</total>
+          <total id="Theft offences">406098</total>
+          <total id="Burglary">90742</total>
+          <total id="Domestic burglary">59111</total>
+          <total id="Non-domestic burglary">31631</total>
+          <total id="Vehicle offences">92257</total>
+          <total id="Theft from the person">48904</total>
+          <total id="Bicycle theft">20160</total>
+          <total id="Shoplifting">36918</total>
+          <total id="All other theft offences">117117</total>
+          <total id="Criminal damage and arson">57307</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">50775</total>
+          <total id="Possession of weapons offences">3751</total>
+          <total id="Public order offences">26429</total>
+          <total id="Miscellaneous crimes against society">7710</total>
+          <total id="Fraud">26756</total>
+        </crimetype>
+      </area>
+    </region>
+    <region name="South East Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">480596</total>
+        <total id="Total recorded crime - excluding fraud">469328</total>
+        <total id="Violence against the person">84094</total>
+        <total id="Homicide">57</total>
+        <total id="Violence with injury">39659</total>
+        <total id="Violence without injury">44378</total>
+        <total id="Sexual offences">7667</total>
+        <total id="Robbery">3716</total>
+        <total id="Theft offences">246029</total>
+        <total id="Burglary">57785</total>
+        <total id="Domestic burglary">24358</total>
+        <total id="Non-domestic burglary">33427</total>
+        <total id="Vehicle offences">46885</total>
+        <total id="Theft from the person">9225</total>
+        <total id="Bicycle theft">15109</total>
+        <total id="Shoplifting">47747</total>
+        <total id="All other theft offences">69278</total>
+        <total id="Criminal damage and arson">76872</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">25875</total>
+        <total id="Possession of weapons offences">2472</total>
+        <total id="Public order offences">16407</total>
+        <total id="Miscellaneous crimes against society">6196</total>
+        <total id="Fraud">11268</total>
+      </crimetype>
+      <area name="Hampshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">106100</total>
+          <total id="Total recorded crime - excluding fraud">103977</total>
+          <total id="Violence against the person">21314</total>
+          <total id="Homicide">11</total>
+          <total id="Violence with injury">10879</total>
+          <total id="Violence without injury">10424</total>
+          <total id="Sexual offences">1740</total>
+          <total id="Robbery">694</total>
+          <total id="Theft offences">49495</total>
+          <total id="Burglary">10811</total>
+          <total id="Domestic burglary">3753</total>
+          <total id="Non-domestic burglary">7058</total>
+          <total id="Vehicle offences">8133</total>
+          <total id="Theft from the person">1769</total>
+          <total id="Bicycle theft">3794</total>
+          <total id="Shoplifting">11017</total>
+          <total id="All other theft offences">13971</total>
+          <total id="Criminal damage and arson">18004</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">6582</total>
+          <total id="Possession of weapons offences">524</total>
+          <total id="Public order offences">4417</total>
+          <total id="Miscellaneous crimes against society">1207</total>
+          <total id="Fraud">2123</total>
+        </crimetype>
+      </area>
+      <area name="Kent">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">100924</total>
+          <total id="Total recorded crime - excluding fraud">99429</total>
+          <total id="Violence against the person">19692</total>
+          <total id="Homicide">10</total>
+          <total id="Violence with injury">10393</total>
+          <total id="Violence without injury">9289</total>
+          <total id="Sexual offences">1588</total>
+          <total id="Robbery">951</total>
+          <total id="Theft offences">51287</total>
+          <total id="Burglary">13977</total>
+          <total id="Domestic burglary">6557</total>
+          <total id="Non-domestic burglary">7420</total>
+          <total id="Vehicle offences">10535</total>
+          <total id="Theft from the person">848</total>
+          <total id="Bicycle theft">1651</total>
+          <total id="Shoplifting">10441</total>
+          <total id="All other theft offences">13835</total>
+          <total id="Criminal damage and arson">17803</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">4167</total>
+          <total id="Possession of weapons offences">428</total>
+          <total id="Public order offences">2299</total>
+          <total id="Miscellaneous crimes against society">1214</total>
+          <total id="Fraud">1495</total>
+        </crimetype>
+      </area>
+      <area name="Surrey">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">52334</total>
+          <total id="Total recorded crime - excluding fraud">50779</total>
+          <total id="Violence against the person">8644</total>
+          <total id="Homicide">4</total>
+          <total id="Violence with injury">2977</total>
+          <total id="Violence without injury">5663</total>
+          <total id="Sexual offences">587</total>
+          <total id="Robbery">239</total>
+          <total id="Theft offences">25520</total>
+          <total id="Burglary">7481</total>
+          <total id="Domestic burglary">3397</total>
+          <total id="Non-domestic burglary">4084</total>
+          <total id="Vehicle offences">5130</total>
+          <total id="Theft from the person">395</total>
+          <total id="Bicycle theft">1344</total>
+          <total id="Shoplifting">4033</total>
+          <total id="All other theft offences">7137</total>
+          <total id="Criminal damage and arson">9109</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">3706</total>
+          <total id="Possession of weapons offences">270</total>
+          <total id="Public order offences">1773</total>
+          <total id="Miscellaneous crimes against society">931</total>
+          <total id="Fraud">1555</total>
+        </crimetype>
+      </area>
+      <area name="Sussex">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">87978</total>
+          <total id="Total recorded crime - excluding fraud">86118</total>
+          <total id="Violence against the person">14870</total>
+          <total id="Homicide">12</total>
+          <total id="Violence with injury">6985</total>
+          <total id="Violence without injury">7873</total>
+          <total id="Sexual offences">1593</total>
+          <total id="Robbery">648</total>
+          <total id="Theft offences">46180</total>
+          <total id="Burglary">9607</total>
+          <total id="Domestic burglary">3846</total>
+          <total id="Non-domestic burglary">5761</total>
+          <total id="Vehicle offences">8231</total>
+          <total id="Theft from the person">3199</total>
+          <total id="Bicycle theft">2669</total>
+          <total id="Shoplifting">8351</total>
+          <total id="All other theft offences">14123</total>
+          <total id="Criminal damage and arson">14015</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">4467</total>
+          <total id="Possession of weapons offences">519</total>
+          <total id="Public order offences">2628</total>
+          <total id="Miscellaneous crimes against society">1198</total>
+          <total id="Fraud">1860</total>
+        </crimetype>
+      </area>
+      <area name="Thames Valley">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">133260</total>
+          <total id="Total recorded crime - excluding fraud">129025</total>
+          <total id="Violence against the person">19574</total>
+          <total id="Homicide">20</total>
+          <total id="Violence with injury">8425</total>
+          <total id="Violence without injury">11129</total>
+          <total id="Sexual offences">2159</total>
+          <total id="Robbery">1184</total>
+          <total id="Theft offences">73547</total>
+          <total id="Burglary">15909</total>
+          <total id="Domestic burglary">6805</total>
+          <total id="Non-domestic burglary">9104</total>
+          <total id="Vehicle offences">14856</total>
+          <total id="Theft from the person">3014</total>
+          <total id="Bicycle theft">5651</total>
+          <total id="Shoplifting">13905</total>
+          <total id="All other theft offences">20212</total>
+          <total id="Criminal damage and arson">17941</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">6953</total>
+          <total id="Possession of weapons offences">731</total>
+          <total id="Public order offences">5290</total>
+          <total id="Miscellaneous crimes against society">1646</total>
+          <total id="Fraud">4235</total>
+        </crimetype>
+      </area>
+    </region>
+    <region name="South West Region">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">287294</total>
+        <total id="Total recorded crime - excluding fraud">280217</total>
+        <total id="Violence against the person">52119</total>
+        <total id="Homicide">38</total>
+        <total id="Violence with injury">28398</total>
+        <total id="Violence without injury">23683</total>
+        <total id="Sexual offences">5295</total>
+        <total id="Robbery">1703</total>
+        <total id="Theft offences">138909</total>
+        <total id="Burglary">33386</total>
+        <total id="Domestic burglary">13513</total>
+        <total id="Non-domestic burglary">19873</total>
+        <total id="Vehicle offences">26747</total>
+        <total id="Theft from the person">4155</total>
+        <total id="Bicycle theft">7690</total>
+        <total id="Shoplifting">28138</total>
+        <total id="All other theft offences">38793</total>
+        <total id="Criminal damage and arson">48709</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">16002</total>
+        <total id="Possession of weapons offences">1350</total>
+        <total id="Public order offences">12938</total>
+        <total id="Miscellaneous crimes against society">3192</total>
+        <total id="Fraud">4713</total>
+      </crimetype>
+      <area name="Avon and Somerset">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">97049</total>
+          <total id="Total recorded crime - excluding fraud">95528</total>
+          <total id="Violence against the person">15895</total>
+          <total id="Homicide">13</total>
+          <total id="Violence with injury">8124</total>
+          <total id="Violence without injury">7758</total>
+          <total id="Sexual offences">1534</total>
+          <total id="Robbery">767</total>
+          <total id="Theft offences">48160</total>
+          <total id="Burglary">11231</total>
+          <total id="Domestic burglary">4889</total>
+          <total id="Non-domestic burglary">6342</total>
+          <total id="Vehicle offences">9239</total>
+          <total id="Theft from the person">1626</total>
+          <total id="Bicycle theft">2812</total>
+          <total id="Shoplifting">10636</total>
+          <total id="All other theft offences">12616</total>
+          <total id="Criminal damage and arson">15725</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">6726</total>
+          <total id="Possession of weapons offences">499</total>
+          <total id="Public order offences">4964</total>
+          <total id="Miscellaneous crimes against society">1258</total>
+          <total id="Fraud">1521</total>
+        </crimetype>
+      </area>
+      <area name="Devon and Cornwall">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">84866</total>
+          <total id="Total recorded crime - excluding fraud">83544</total>
+          <total id="Violence against the person">19670</total>
+          <total id="Homicide">10</total>
+          <total id="Violence with injury">10680</total>
+          <total id="Violence without injury">8980</total>
+          <total id="Sexual offences">2009</total>
+          <total id="Robbery">378</total>
+          <total id="Theft offences">35192</total>
+          <total id="Burglary">8030</total>
+          <total id="Domestic burglary">3334</total>
+          <total id="Non-domestic burglary">4696</total>
+          <total id="Vehicle offences">6139</total>
+          <total id="Theft from the person">1128</total>
+          <total id="Bicycle theft">1286</total>
+          <total id="Shoplifting">7311</total>
+          <total id="All other theft offences">11298</total>
+          <total id="Criminal damage and arson">15025</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">4509</total>
+          <total id="Possession of weapons offences">416</total>
+          <total id="Public order offences">5390</total>
+          <total id="Miscellaneous crimes against society">955</total>
+          <total id="Fraud">1322</total>
+        </crimetype>
+      </area>
+      <area name="Dorset">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">39402</total>
+          <total id="Total recorded crime - excluding fraud">38963</total>
+          <total id="Violence against the person">6050</total>
+          <total id="Homicide">5</total>
+          <total id="Violence with injury">3574</total>
+          <total id="Violence without injury">2471</total>
+          <total id="Sexual offences">586</total>
+          <total id="Robbery">198</total>
+          <total id="Theft offences">22027</total>
+          <total id="Burglary">5093</total>
+          <total id="Domestic burglary">1833</total>
+          <total id="Non-domestic burglary">3260</total>
+          <total id="Vehicle offences">4960</total>
+          <total id="Theft from the person">633</total>
+          <total id="Bicycle theft">1735</total>
+          <total id="Shoplifting">3722</total>
+          <total id="All other theft offences">5884</total>
+          <total id="Criminal damage and arson">7111</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1497</total>
+          <total id="Possession of weapons offences">165</total>
+          <total id="Public order offences">979</total>
+          <total id="Miscellaneous crimes against society">350</total>
+          <total id="Fraud">439</total>
+        </crimetype>
+      </area>
+      <area name="Gloucestershire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">30250</total>
+          <total id="Total recorded crime - excluding fraud">29595</total>
+          <total id="Violence against the person">4360</total>
+          <total id="Homicide">1</total>
+          <total id="Violence with injury">2599</total>
+          <total id="Violence without injury">1760</total>
+          <total id="Sexual offences">522</total>
+          <total id="Robbery">231</total>
+          <total id="Theft offences">16754</total>
+          <total id="Burglary">4701</total>
+          <total id="Domestic burglary">2192</total>
+          <total id="Non-domestic burglary">2509</total>
+          <total id="Vehicle offences">3061</total>
+          <total id="Theft from the person">366</total>
+          <total id="Bicycle theft">1102</total>
+          <total id="Shoplifting">3261</total>
+          <total id="All other theft offences">4263</total>
+          <total id="Criminal damage and arson">4854</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1646</total>
+          <total id="Possession of weapons offences">134</total>
+          <total id="Public order offences">713</total>
+          <total id="Miscellaneous crimes against society">381</total>
+          <total id="Fraud">655</total>
+        </crimetype>
+      </area>
+      <area name="Wiltshire">
+        <crimetype id="Victim-based crime">
+          <total id="Total recorded crime - including fraud">33363</total>
+          <total id="Total recorded crime - excluding fraud">32587</total>
+          <total id="Violence against the person">6144</total>
+          <total id="Homicide">9</total>
+          <total id="Violence with injury">3421</total>
+          <total id="Violence without injury">2714</total>
+          <total id="Sexual offences">644</total>
+          <total id="Robbery">129</total>
+          <total id="Theft offences">16776</total>
+          <total id="Burglary">4331</total>
+          <total id="Domestic burglary">1265</total>
+          <total id="Non-domestic burglary">3066</total>
+          <total id="Vehicle offences">3348</total>
+          <total id="Theft from the person">402</total>
+          <total id="Bicycle theft">755</total>
+          <total id="Shoplifting">3208</total>
+          <total id="All other theft offences">4732</total>
+          <total id="Criminal damage and arson">5994</total>
+        </crimetype>
+        <crimetype id="Other crimes against society">
+          <total id="Drug offences">1624</total>
+          <total id="Possession of weapons offences">136</total>
+          <total id="Public order offences">892</total>
+          <total id="Miscellaneous crimes against society">248</total>
+          <total id="Fraud">776</total>
+        </crimetype>
+      </area>
+    </region>
+  </country>
+  <country name="WALES">
+    <crimetype id="Victim-based crime">
+      <total id="Total recorded crime - including fraud">173614</total>
+      <total id="Total recorded crime - excluding fraud">171181</total>
+      <total id="Violence against the person">31232</total>
+      <total id="Homicide">31</total>
+      <total id="Violence with injury">18187</total>
+      <total id="Violence without injury">13014</total>
+      <total id="Sexual offences">2936</total>
+      <total id="Robbery">733</total>
+      <total id="Theft offences">81179</total>
+      <total id="Burglary">19760</total>
+      <total id="Domestic burglary">7789</total>
+      <total id="Non-domestic burglary">11971</total>
+      <total id="Vehicle offences">17354</total>
+      <total id="Theft from the person">2468</total>
+      <total id="Bicycle theft">2962</total>
+      <total id="Shoplifting">16306</total>
+      <total id="All other theft offences">22329</total>
+      <total id="Criminal damage and arson">31200</total>
+    </crimetype>
+    <crimetype id="Other crimes against society">
+      <total id="Drug offences">12763</total>
+      <total id="Possession of weapons offences">955</total>
+      <total id="Public order offences">8182</total>
+      <total id="Miscellaneous crimes against society">2001</total>
+      <total id="Fraud">2433</total>
+    </crimetype>
+    <region name="Dyfed-Powys">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">18903</total>
+        <total id="Total recorded crime - excluding fraud">18532</total>
+        <total id="Violence against the person">3401</total>
+        <total id="Homicide">5</total>
+        <total id="Violence with injury">2068</total>
+        <total id="Violence without injury">1328</total>
+        <total id="Sexual offences">376</total>
+        <total id="Robbery">24</total>
+        <total id="Theft offences">6376</total>
+        <total id="Burglary">1349</total>
+        <total id="Domestic burglary">444</total>
+        <total id="Non-domestic burglary">905</total>
+        <total id="Vehicle offences">996</total>
+        <total id="Theft from the person">60</total>
+        <total id="Bicycle theft">174</total>
+        <total id="Shoplifting">1573</total>
+        <total id="All other theft offences">2224</total>
+        <total id="Criminal damage and arson">3326</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">3464</total>
+        <total id="Possession of weapons offences">146</total>
+        <total id="Public order offences">1219</total>
+        <total id="Miscellaneous crimes against society">200</total>
+        <total id="Fraud">371</total>
+      </crimetype>
+    </region>
+    <region name="Gwent">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">34595</total>
+        <total id="Total recorded crime - excluding fraud">34328</total>
+        <total id="Violence against the person"/>
+        <total id="Homicide">6301</total>
+        <total id="Violence with injury">5</total>
+        <total id="Violence without injury">3480</total>
+        <total id="Sexual offences">2816</total>
+        <total id="Robbery">504</total>
+        <total id="Theft offences">178</total>
+        <total id="Burglary">16711</total>
+        <total id="Domestic burglary">4646</total>
+        <total id="Non-domestic burglary">1775</total>
+        <total id="Vehicle offences">2871</total>
+        <total id="Theft from the person">3654</total>
+        <total id="Bicycle theft">155</total>
+        <total id="Shoplifting">440</total>
+        <total id="All other theft offences">3310</total>
+        <total id="Criminal damage and arson">4506</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">6374</total>
+        <total id="Possession of weapons offences">2319</total>
+        <total id="Public order offences">176</total>
+        <total id="Miscellaneous crimes against society">1347</total>
+        <total id="Fraud">418</total>
+      </crimetype>
+    </region>
+    <region name="North Wales">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">36584</total>
+        <total id="Total recorded crime - excluding fraud">36232</total>
+        <total id="Violence against the person">7924</total>
+        <total id="Homicide">11</total>
+        <total id="Violence with injury">4076</total>
+        <total id="Violence without injury">3837</total>
+        <total id="Sexual offences">858</total>
+        <total id="Robbery">135</total>
+        <total id="Theft offences">16033</total>
+        <total id="Burglary">4635</total>
+        <total id="Domestic burglary">1614</total>
+        <total id="Non-domestic burglary">3021</total>
+        <total id="Vehicle offences">2496</total>
+        <total id="Theft from the person">197</total>
+        <total id="Bicycle theft">597</total>
+        <total id="Shoplifting">3566</total>
+        <total id="All other theft offences">4542</total>
+        <total id="Criminal damage and arson">7229</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">1717</total>
+        <total id="Possession of weapons offences">170</total>
+        <total id="Public order offences">1727</total>
+        <total id="Miscellaneous crimes against society">439</total>
+        <total id="Fraud">352</total>
+      </crimetype>
+    </region>
+    <region name="South Wales">
+      <crimetype id="Victim-based crime">
+        <total id="Total recorded crime - including fraud">83532</total>
+        <total id="Total recorded crime - excluding fraud">82089</total>
+        <total id="Violence against the person">13606</total>
+        <total id="Homicide">10</total>
+        <total id="Violence with injury">8563</total>
+        <total id="Violence without injury">5033</total>
+        <total id="Sexual offences">1198</total>
+        <total id="Robbery">396</total>
+        <total id="Theft offences">42059</total>
+        <total id="Burglary">9130</total>
+        <total id="Domestic burglary">3956</total>
+        <total id="Non-domestic burglary">5174</total>
+        <total id="Vehicle offences">10208</total>
+        <total id="Theft from the person">2056</total>
+        <total id="Bicycle theft">1751</total>
+        <total id="Shoplifting">7857</total>
+        <total id="All other theft offences">11057</total>
+        <total id="Criminal damage and arson">14271</total>
+      </crimetype>
+      <crimetype id="Other crimes against society">
+        <total id="Drug offences">5263</total>
+        <total id="Possession of weapons offences">463</total>
+        <total id="Public order offences">3889</total>
+        <total id="Miscellaneous crimes against society">944</total>
+        <total id="Fraud">1443</total>
+      </crimetype>
+    </region>
+  </country>
+  <national name="British Transport Police">
+    <crimetype id="Victim-based crime">
+      <total id="Total recorded crime - including fraud">51970</total>
+      <total id="Total recorded crime - excluding fraud">51570</total>
+      <total id="Violence against the person">6151</total>
+      <total id="Homicide">3</total>
+      <total id="Violence with injury">2093</total>
+      <total id="Violence without injury">4055</total>
+      <total id="Sexual offences">641</total>
+      <total id="Robbery">505</total>
+      <total id="Theft offences">28102</total>
+      <total id="Burglary">529</total>
+      <total id="Domestic burglary">2</total>
+      <total id="Non-domestic burglary">527</total>
+      <total id="Vehicle offences">1526</total>
+      <total id="Theft from the person">9116</total>
+      <total id="Bicycle theft">5093</total>
+      <total id="Shoplifting">1853</total>
+      <total id="All other theft offences">9985</total>
+      <total id="Criminal damage and arson">4761</total>
+    </crimetype>
+    <crimetype id="Other crimes against society">
+      <total id="Drug offences">3614</total>
+      <total id="Possession of weapons offences">363</total>
+      <total id="Public order offences">6521</total>
+      <total id="Miscellaneous crimes against society">912</total>
+      <total id="Fraud">400</total>
+    </crimetype>
+  </national>
+  <national name="Action Fraud">
+    <crimetype id="Victim-based crime">
+      <total id="Total recorded crime - including fraud">150389</total>
+      <total id="Total recorded crime - excluding fraud">..</total>
+      <total id="Violence against the person">..</total>
+      <total id="Homicide">..</total>
+      <total id="Violence with injury">..</total>
+      <total id="Violence without injury">..</total>
+      <total id="Sexual offences">..</total>
+      <total id="Robbery">..</total>
+      <total id="Theft offences">..</total>
+      <total id="Burglary">..</total>
+      <total id="Domestic burglary">..</total>
+      <total id="Non-domestic burglary">..</total>
+      <total id="Vehicle offences">..</total>
+      <total id="Theft from the person">..</total>
+      <total id="Bicycle theft">..</total>
+      <total id="Shoplifting">..</total>
+      <total id="All other theft offences">..</total>
+      <total id="Criminal damage and arson">..</total>
+    </crimetype>
+    <crimetype id="Other crimes against society">
+      <total id="Drug offences">..</total>
+      <total id="Possession of weapons offences">..</total>
+      <total id="Public order offences">..</total>
+      <total id="Miscellaneous crimes against society">..</total>
+      <total id="Fraud">150389</total>
+    </crimetype>
+  </national>
+  <unitedkingdom name="ENGLAND AND WALES">
+    <crimetype id="Victim-based crime">
+      <total id="Total recorded crime - including fraud">3721805</total>
+      <total id="Total recorded crime - excluding fraud">3490354</total>
+      <total id="Violence against the person">598273</total>
+      <total id="Homicide">532</total>
+      <total id="Violence with injury">309624</total>
+      <total id="Violence without injury">288117</total>
+      <total id="Sexual offences">55812</total>
+      <total id="Robbery">62364</total>
+      <total id="Theft offences">1848472</total>
+      <total id="Burglary">454908</total>
+      <total id="Domestic burglary">223902</total>
+      <total id="Non-domestic burglary">231006</total>
+      <total id="Vehicle offences">383723</total>
+      <total id="Theft from the person">109718</total>
+      <total id="Bicycle theft">96559</total>
+      <total id="Shoplifting">307652</total>
+      <total id="All other theft offences">495912</total>
+      <total id="Criminal damage and arson">525277</total>
+    </crimetype>
+    <crimetype id="Other crimes against society">
+      <total id="Drug offences">206626</total>
+      <total id="Possession of weapons offences">19920</total>
+      <total id="Public order offences">130878</total>
+      <total id="Miscellaneous crimes against society">42732</total>
+      <total id="Fraud">230335</total>
+    </crimetype>
+  </unitedkingdom>
+</crimes>

@@ -1,0 +1,42 @@
+{
+    "response": {
+        "timestamp": 1392986847,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "South West",
+                "total": "52322",
+                "area": [
+                    {
+                        "id": "Avon and Somerset",
+                        "total": "97049"
+                    },
+                    {
+                        "id": "Devon and Cornwall",
+                        "total": "84866"
+                    },
+                    {
+                        "id": "Dorset",
+                        "total": "39402"
+                    },
+                    {
+                        "id": "Gloucestershire",
+                        "total": "30250"
+                    },
+                    {
+                        "id": "Wiltshire",
+                        "total": "33363"
+                    },
+                    {
+                        "id": "Wtssex",
+                        "total": "44"
+                    },
+                    {
+                        "id": "W3ssex",
+                        "total": "44"
+                    }
+                ]
+            }
+        }
+    }
+}

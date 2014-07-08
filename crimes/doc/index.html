@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=utf-8 />
+	<title></title>
+	<link rel="stylesheet" type="text/css" media="screen" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="css/mainStyleSheet.css" />
+</head>
+<body>
+	<header>
+		<h1>ATWD - Documentation</h1>
+	</header>
+	<hr>
+	<div id="topWrapper" class="wrapper">
+		<h2 id="title">Client Side Visualization</h2>
+		<h3 class="topSection"><a href="../6-2013/client/client.html">Client side visualisation - www.cems.uwe.ac.uk/~s2-vora/atwd/crimes/6-2013/client/client.html</a></h3>
+	</div>
+	<div id="topWrapper" class="wrapper">
+		<h2 id="title">Links for the REST service</h2>
+		<table id="restTable">
+			<tr id="tableHeadings">
+				<td>Part</td>
+				<td>Description</td>
+				<td>Link</td>
+			</tr>
+			<tr class="normalRow">
+				<td>2.1.1</td>
+				<td>[GET] All Recorded Crimes by Region</td>
+				<td>
+					<a href="../6-2013/xml" target="_blank">atwd/crimes/6-2013/xml</a>
+					</br></br>
+					<a href="../6-2013/json" target="_blank">atwd/crimes/6-2013/json</a>
+				</td>
+			</tr>
+			<tr class="normalRow">
+				<td>2.1.2</td>
+				<td>[GET] Recorded Crimes for Specific Region</td>
+				<td>
+					<a href="../6-2013/south_west/xml" target="_blank">atwd/crimes/6-2013/south_west/xml</a>
+					</br></br>
+					<a href="../6-2013/south_west/json" target="_blank">atwd/crimes/6-2013/south_west/json</a>
+				</td>
+			</tr>
+			<tr class="normalRow">
+				<td>2.2.1</td>
+				<td>[PUT] (Update) Total for British Transport Police</td>
+				<td>
+					<a href="../6-2013/put/british_transport_police:51970/xml" target="_blank">atwd/crimes/6-2013/put/british_transport_police:51970/xml</a>
+					</br></br>
+					<a href="../6-2013/put/british_transport_police:51970/json" target="_blank">atwd/crimes/6-2013/put/british_transport_police:51970/json</a>
+				</td>
+			</tr>
+			<tr class="normalRow">
+				<td>2.2.2</td>
+				<td>[POST] Create Sample Data for (made up) Area</td>
+				<td>
+					<a href="../6-2013/post/south_west/wessex/hom:4-vwi:15-vwoi:25/xml" target="_blank">atwd/crimes/6-2013/post/south_west/wessex/hom:4-vwi:15-vwoi:25/xml</a>
+					</br></br>
+					<a href="../6-2013/post/south_west/wessex/hom:4-vwi:15-vwoi:25/json" target="_blank">atwd/crimes/6-2013/post/south_west/wessex/hom:4-vwi:15-vwoi:25/json</a>
+				</td>
+			</tr>
+			<tr class="normalRow">
+				<td>2.2.3</td>
+				<td>[Delete] the previous entry</td>
+				<td>
+					<a href="../6-2013/delete/wessex/xml" target="_blank">atwd/crimes/6-2013/delete/wessex/xml</a>
+					</br></br>
+					<a href="../6-2013/delete/wessex/json" target="_blank">atwd/crimes/6-2013/delete/wessex/json</a>
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="wrapper">
+		<h2 class="sectionTitle">Assignment Scripts</h2>
+		<section id="partOne" class="leftSection">
+			<h2>Part 1: Data Conversion and Schema</h2>
+				<h3><p>1:</p><a href="phpScripts/createXML/CrimeCSV.csv">CSV</a></h3>
+				<h3><p>2:</p><a href="phpScripts/createXML/CreateCrimeXML.phps">CSV to XML PHP script</a></h3>
+				<h3><p>3:</p><a href="phpScripts/CrimeXML.xml">CrimeXML</a></h3>
+				<h3><p>4:</p><a href="phpScripts/createXML/CrimeXSD.xsd">XSD</a></h3>
+				<h3><p>5:</p><a href="phpScripts/HTACCESS">.htaccess</a></h3>
+			<h4>Helper Scripts</h4>
+			<h3 class="extraMarginLeft"><p>6:</p><a href="phpScripts/createXML/ReadCSV.phps">ReadCSV</a></h3>
+			<h3 class="extraMarginLeft"><p>7:</p><a href="phpScripts/createXML/XMLHandler.phps">XMLHandler</a></h3>
+		</section>
+		<section class="rightSection">
+			<h2>Part 2: REST Service</h2>
+			<h3><p>1:</p><a href="phpScripts/GetAll.phps">GET all regions</a></h3>
+			<h3><p>2:</p><a href="phpScripts/Get.phps">GET specific region</a></h3>
+			<h3><p>3:</p><a href="phpScripts/Put.phps">PUT</a></h3>
+			<h3><p>4:</p><a href="phpScripts/Post.phps">POST</a></h3>
+			<h3><p>5:</p><a href="phpScripts/Delete.phps">DELETE</a></h3>
+			<h4>Error Handling</h4>
+			<h3 class="extraMarginLeft"><p>6:</p><a href="phpScripts/Errors.phps">Errors</a></h3>
+			<h4>Helper Scripts</h4>
+			<h3 class="extraMarginLeft"><p>7:</p><a href="phpScripts/AreaTemplate.xml">New Area XML Template</a></h3>
+			<h3 class="extraMarginLeft"><p>8:</p><a href="phpScripts/CrimeXMLHandler.phps">CrimeXMLHandler</a></h3>
+			<h3 class="extraMarginLeft"><p>9:</p><a href="phpScripts/DomResponseHandler.phps">DomResponseHandler</a></h3>
+		</section>
+		<section class="leftSection">
+			<h2>Part 3: Client Side Processing & Visualization</h2>
+			<h3><p>1:</p><a href="../6-2013/client/client.html">Client HTML page</a></h3>
+			<h3><p>2:</p><a href="phpScripts/client/jQueryDataHandler.js">Client JavaScript</a></h3>
+			<h3><p>3:</p><a href="phpScripts/client/Chart.js">Chart.js</a></h3>
+			<h3><p>4:</p><a href="phpScripts/client/reset.css">Reset.css</a></h3>
+			<h3><p>5:</p><a href="phpScripts/client/client.css">Client.css</a></h3>
+		</section>
+		<section id="expandHeight" class="rightSection">
+			<h2>Part 4: Caching</h2>
+			<h3><p>1:</p><a href="phpScripts/Cache.phps">Server Side Cache Script</a></h3>
+			<h3><p>2:</p>Client cache is implemented in Part 3 - Client JavaScript</h3>
+			<h3><p>3:</p><a href="phpScripts/local_cache">Local Cache files</a></h3>
+		</section>
+		<section id="twoPanelSection">
+			<h2>Part 5: Documentation</h2>
+			<p>One of the first challenges which I faced during this assignment was converting the CSV data into a well-formed XML file. With this, I initially struggled to structure my PHP code in a way which read the CSV data that I wanted. This was because after converting the provided XLS file into the CSV, the CSV contained additional data, as well as data positioned in an unorganised way. I therefore had to delete some of the data and reposition them so that I knew which line I was reading in. I was then able to structure my PHP to read the data I wanted and create an XML string based on the data that was read.</br></br>
+
+Another challenge which I faced was during the implementation of the PUT request. Since this request required me to create an XML element representing a new area, I struggled to find a way which did not require me to hardcode the new XML area elements within PHP, since doing so would result in bloated code. After much thought, I finally found that by using an XML file containing a template of an empty area, I would be able to read that template within PHP to create and populate the new area with the data passed in from the request. This provided a solution which did not require me to hardcode the new area XML, and also it allows for people to change the XML area template without having to access my code.</br></br>
+
+Client side visualisation also gave me some difficulties on the use of Chart.js to generate the bar chart. Because of my minimal knowledge and experience with JQuery, the data array structure I created for the bar chart was malformed. This lead the bar chart scales and labels to be squashed together and displayed inaccurately. However, after asking for help on Piazza, I was guided on the right direction by a fellow peer on as to what might be causing this to happen.  As it turned out, it was the structure of elements within the array I was using for the bar chart.</br></br>
+
+From this assignment, the challenges that I faced also enabled me to learn new coding approaches and methods. For example, this was the first time I had used PHP in a way which combined both procedural and object-oriented approaches to coding. Also, this was the first time I had made use of JSON significantly. This allowed me to learn how to correctly structure a JSON response, as well as learning how it integrates within JavaScript.</br></br>
+
+Overall, this assignment has been a long journey for me; allowing me to learn and experience new approaches to creating a RESTful API. I was provided with minimal resources and requirements which allowed me to pave my own path on as to how I would tackle the assignment. The challenges that I faced along the way helped me to realise what I could to improve my code, as well as the approaches that I was taking.</p>
+		</section>
+	</div>
+	
+</body>
+</html>

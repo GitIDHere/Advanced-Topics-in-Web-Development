@@ -1,0 +1,19 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+#DELETE
+RewriteRule crimes/6-2013/delete/(.*)/(xml|json) crimes/6-2013/Delete.php?area=$1&format=$2 [QSA,L]
+
+#POST
+RewriteRule crimes/6-2013/post/(.*)/(.*)/(.*)/(xml|json) crimes/6-2013/Post.php?region=$1&area=$2&data=$3&format=$4 [QSA,L]
+
+#PUT
+RewriteRule crimes/6-2013/put/(.*):(.*)/(xml|json) crimes/6-2013/Put.php?region=$1&total=$2&format=$3 [QSA,L]
+
+#GET specific
+RewriteRule crimes/6-2013/(.*)/(xml|json) crimes/6-2013/Get.php?region=$1&format=$2 [QSA,L]
+
+#GET all
+RewriteRule crimes/6-2013/(xml|json) crimes/6-2013/GetAll.php?format=$1 [L,QSA]

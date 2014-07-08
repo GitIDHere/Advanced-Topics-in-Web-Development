@@ -1,0 +1,30 @@
+{
+    "response": {
+        "timestamp": 1393437092,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "Yorkshire And Humber",
+                "total": "356370",
+                "area": [
+                    {
+                        "id": "Humberside",
+                        "total": "64707"
+                    },
+                    {
+                        "id": "North Yorkshire",
+                        "total": "34801"
+                    },
+                    {
+                        "id": "South Yorkshire",
+                        "total": "93116"
+                    },
+                    {
+                        "id": "West Yorkshire",
+                        "total": "163746"
+                    }
+                ]
+            }
+        }
+    }
+}

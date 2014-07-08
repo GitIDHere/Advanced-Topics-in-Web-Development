@@ -1,0 +1,34 @@
+{
+    "response": {
+        "timestamp": 1392986847,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "South East",
+                "total": "52146",
+                "area": [
+                    {
+                        "id": "Hampshire",
+                        "total": "106100"
+                    },
+                    {
+                        "id": "Kent",
+                        "total": "100924"
+                    },
+                    {
+                        "id": "Surrey",
+                        "total": "52334"
+                    },
+                    {
+                        "id": "Sussex",
+                        "total": "87978"
+                    },
+                    {
+                        "id": "Thames Valley",
+                        "total": "133260"
+                    }
+                ]
+            }
+        }
+    }
+}

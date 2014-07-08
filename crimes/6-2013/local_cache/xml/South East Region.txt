@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1395755925">
+  <crimes year="6-2013">
+    <region id="South East" total="480596">
+      <area id="Hampshire" total="106100"/>
+      <area id="Kent" total="100924"/>
+      <area id="Surrey" total="52334"/>
+      <area id="Sussex" total="87978"/>
+      <area id="Thames Valley" total="133260"/>
+    </region>
+  </crimes>
+</response>

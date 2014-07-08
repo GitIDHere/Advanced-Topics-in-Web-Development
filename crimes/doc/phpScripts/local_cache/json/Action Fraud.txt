@@ -1,0 +1,12 @@
+{
+    "response": {
+        "timestamp": 1392986849,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "Actio",
+                "total": "52146"
+            }
+        }
+    }
+}

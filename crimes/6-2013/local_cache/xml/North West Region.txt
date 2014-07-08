@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response timestamp="1393433023">
+  <crimes year="6-2013">
+    <region id="North West" total="52146">
+      <area id="Cheshire" total="57908"/>
+      <area id="Cumbria" total="23286"/>
+      <area id="Greater Manchester" total="178857"/>
+      <area id="Lancashire" total="93427"/>
+      <area id="Merseyside" total="90945"/>
+    </region>
+  </crimes>
+</response>

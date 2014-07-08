@@ -1,0 +1,22 @@
+{
+    "response": {
+        "timestamp": 1392986844,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "London",
+                "total": "52146",
+                "area": [
+                    {
+                        "id": "London, City of",
+                        "total": "5552"
+                    },
+                    {
+                        "id": "Metropolitan Police",
+                        "total": "744633"
+                    }
+                ]
+            }
+        }
+    }
+}

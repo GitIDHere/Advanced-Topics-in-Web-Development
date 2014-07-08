@@ -1,0 +1,34 @@
+{
+    "response": {
+        "timestamp": 1404833540,
+        "crimes": {
+            "year": "6-2013",
+            "region": {
+                "id": "East Midlands",
+                "total": "261294",
+                "area": [
+                    {
+                        "id": "Derbyshire",
+                        "total": "51749"
+                    },
+                    {
+                        "id": "Leicestershire",
+                        "total": "58472"
+                    },
+                    {
+                        "id": "Lincolnshire",
+                        "total": "37023"
+                    },
+                    {
+                        "id": "Northamptonshire",
+                        "total": "45273"
+                    },
+                    {
+                        "id": "Nottinghamshire",
+                        "total": "68777"
+                    }
+                ]
+            }
+        }
+    }
+}
